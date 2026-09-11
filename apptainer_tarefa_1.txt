@@ -2,7 +2,7 @@ Bootstrap: docker
 From: ubuntu:22.04
 
 %labels
-    Author  seu.nome@instituicao.br
+    Author  aeloborojas@gmail.com
     Version 0.1.0
     Tool    seqkit 2.8.2
 
